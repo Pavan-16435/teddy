@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-16435/teddy/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/Pavan-16435/teddy/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan-16435/teddy/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pavan-16435/teddy/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Pavan-16435/teddy/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-16435/teddy/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-16435/teddy/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
