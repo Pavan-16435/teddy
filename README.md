@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavan-16435/teddy/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Pavan-16435/teddy/tree/master/0205-isomorphic-strings) |
 | [1927-sum-game](https://github.com/Pavan-16435/teddy/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan-16435/teddy/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pavan-16435/teddy/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Pavan-16435/teddy/tree/master/0205-isomorphic-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pavan-16435/teddy/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pavan-16435/teddy/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-16435/teddy/tree/master/3718-smallest-missing-multiple-of-k) |
