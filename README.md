@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pavan-16435/teddy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0835-image-overlap](https://github.com/Pavan-16435/teddy/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pavan-16435/teddy/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pavan-16435/teddy/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pavan-16435/teddy/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Pavan-16435/teddy/tree/master/3525-find-x-value-of-array-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Pavan-16435/teddy/tree/master/0205-isomorphic-strings) |
+| [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pavan-16435/teddy/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pavan-16435/teddy/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-16435/teddy/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan-16435/teddy/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pavan-16435/teddy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
