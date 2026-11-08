@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pavan-16435/teddy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0835-image-overlap](https://github.com/Pavan-16435/teddy/tree/master/0835-image-overlap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan-16435/teddy/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pavan-16435/teddy/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pavan-16435/teddy/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan-16435/teddy/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pavan-16435/teddy/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -85,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pavan-16435/teddy/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Pavan-16435/teddy/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pavan-16435/teddy/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
