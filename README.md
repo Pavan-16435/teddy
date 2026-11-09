@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pavan-16435/teddy/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pavan-16435/teddy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
 | [0835-image-overlap](https://github.com/Pavan-16435/teddy/tree/master/0835-image-overlap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan-16435/teddy/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan-16435/teddy/tree/master/0992-subarrays-with-k-different-integers) |
 | [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pavan-16435/teddy/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -137,4 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
