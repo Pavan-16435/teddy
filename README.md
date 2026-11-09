@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pavan-16435/teddy/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pavan-16435/teddy/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/Pavan-16435/teddy/tree/master/0496-next-greater-element-i) |
 | [0835-image-overlap](https://github.com/Pavan-16435/teddy/tree/master/0835-image-overlap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan-16435/teddy/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/Pavan-16435/teddy/tree/master/1267-count-servers-that-communicate) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Pavan-16435/teddy/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/Pavan-16435/teddy/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pavan-16435/teddy/tree/master/0992-subarrays-with-k-different-integers) |
 | [2747-count-zero-request-servers](https://github.com/Pavan-16435/teddy/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pavan-16435/teddy/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavan-16435/teddy/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Pavan-16435/teddy/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pavan-16435/teddy/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Pavan-16435/teddy/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
